@@ -8,4 +8,8 @@
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [ ] Mastering git
+
 - [] update local machine
+
+- [ ] github sever update
+
